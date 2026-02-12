@@ -8,4 +8,8 @@ print("Sum of ",x,"and ",y,"is ",z)
 
 
 
+abhay 
+kumar 
+singh
+
 
